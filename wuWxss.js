@@ -165,7 +165,7 @@ function doWxss(dir, cb, mainDir, nowDir) {
             if (node.children) {
                 const removeType = ["webkit", "moz", "ms", "o"];
                 let list = {};
-                node.children.each((son, item) => {
+                node.children.forEach((son, item) => {
                     if (son.type == "Declaration") {
                         if (list[son.property]) {
                             let a = item, b = list[son.property], x = son, y = b.data, ans = null;
