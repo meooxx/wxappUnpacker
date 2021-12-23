@@ -1,6 +1,7 @@
 
+
 # 说明
-- 来自网友基于 [wxappUnpacker](https://github.com/qwerty472123/wxappUnpacker "wxappUnpacker") 改进的开源项目。
+- this project will be deleted soon
 
 # 安装
 ```
@@ -48,24 +49,8 @@ TIP
 │       ├── app.json
 ```
 
-# 公众号
-<img src="geek_road.jpg" alt="公众号" height="145" />  
-
-# 逆向教程小程序
-<img src="http://cdn.xuedingmiao.com/nxjc.jpg" alt="逆向教程" height="185" />  
-
 # 自助解包客户端
 [基于electron-vue开发的微信小程序自助解包(反编译)客户端](https://github.com/xuedingmiaojun/mp-unpack)
-
-# [小程序逆向视频专栏](https://m.lizhiweike.com/channel2/1037814)
-- 还是不知道怎么逆向？
-- 遇到问题不会处理？  
-
-快来看看视频系列课程吧~    
-[人人都能学会的微信小程序逆向技能](https://m.lizhiweike.com/channel2/1037814)
-
-# 逆向疑难小程序
-- [逆向喜茶Go](https://www.bilibili.com/video/BV1Lv411a73w/)
 
 # 项目推荐
 ### [微信小程序多端实时运行工具](https://github.com/wetools/wept)
