@@ -10,17 +10,7 @@ npm install
 
 # 安装依赖
 ```
-npm install esprima
-    
-npm install css-tree
-    
-npm install cssbeautify
-    
-npm install vm2
-    
-npm install uglify-es
-    
-npm install js-beautify
+npm install 
 ```
 
 # 分包功能
@@ -34,7 +24,6 @@ npm install js-beautify
     - windows系统使用: `./bingo.bat testpkg/sub-1-xxx.wxapkg -s=../master-xxx`
     - Linux系统使用:  `./bingo.sh testpkg/sub-1-xxx.wxapkg -s=../master-xxx`
 
-觉得麻烦?可以使用[自助解包客户端](#自助解包客户端)
 
 TIP
 > -s 参数可为相对路径或绝对路径, 推荐使用绝对路径, 因为相对路径的起点不是当前目录 而是子包解包后的目录
@@ -49,8 +38,6 @@ TIP
 │       ├── app.json
 ```
 
-# 自助解包客户端
-[基于electron-vue开发的微信小程序自助解包(反编译)客户端](https://github.com/xuedingmiaojun/mp-unpack)
 
 # 项目推荐
 ### [微信小程序多端实时运行工具](https://github.com/wetools/wept)
